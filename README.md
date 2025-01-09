@@ -8,10 +8,10 @@ Welcome to my GitHub profile! Here's a bit about me:
 - 🤝 Always open to collaborate on interesting projects.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** Python, JavaScript, TypeScript, Java, C++
-- **Frameworks:** React, Node.js, Express, Django, Spring Boot
+- **Languages:** Python, JavaScript, Java, C++, Dart, C#
+- **Frameworks:** Node.js, Express, Spring Boot
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Kubernetes, Jenkins, VS Code
+- **Tools:** Git, Docker, Kubernetes, Jenkins, VS Code, Android Studio
 
 ## 📈 GitHub Stats
 ![Huypanha's GitHub stats](https://github-readme-stats.vercel.app/api?username=huypanha&show_icons=true&theme=radical)
