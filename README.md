@@ -14,7 +14,10 @@ Welcome to my GitHub profile! Here's a bit about me:
 - **Tools:** Git, Docker, Kubernetes, Jenkins, VS Code, Android Studio
 
 ## 📈 GitHub Stats
-![Huypanha's GitHub stats](https://github-readme-stats.vercel.app/api?username=huypanha&show_icons=true&theme=radical)
+![Huypanha's GitHub stats](https://github-readme-stats.vercel.app/api?username=huypanha&show_icons=true&theme=tokyonight)
+
+## Most Used Languages
+![Huypanha's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huypanha&size_weight=0.5&count_weight=0.5)
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/huypanha)
