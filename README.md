@@ -22,7 +22,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/huypanha)
 - [Twitter](https://twitter.com/huypanha)
-- [Email](mailto:your-email@example.com)
+- [Email](mailto:huypanha558@gmail.com)
 
 <!-- ## 📚 Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
