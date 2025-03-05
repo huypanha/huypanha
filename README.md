@@ -22,7 +22,9 @@ Welcome to my GitHub profile! Here's a bit about me:
 <img src="https://github-readme-stats.vercel.app/api?username=huypanha&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=false&card_width=414&card_height=195"/>
     </a>
 </div>
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huypanha&bg_color=000000&color=ffffff&line=ffffff&point=93f915&area=true&hide_border=true)
+
+## Activity Graph
+![Huypanha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huypanha&bg_color=000000&color=ffffff&line=ffffff&point=93f915&area=true&hide_border=true)
 
 ## Most Used Languages
 ![Huypanha's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huypanha&size_weight=0.5&count_weight=0.5)
