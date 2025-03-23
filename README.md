@@ -10,8 +10,8 @@ Welcome to my GitHub profile! Here's a bit about me:
 ## 🛠️ Technologies & Tools
 - **Languages:** Python, JavaScript, Java, C++, Dart, C#
 - **Frameworks:** Node.js, Express, Spring Boot
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Kubernetes, Jenkins, VS Code, Android Studio
+- **Databases:** MySQL, PostgreSQL, MongoDB, SQL Server, Oracle
+- **Tools:** Git, Gitea, Gitlab, Docker, Kubernetes, Jenkins, VS Code, Android Studio
 
 ## 📈 GitHub Stats
 <div>
