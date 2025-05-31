@@ -34,10 +34,6 @@ Welcome to my GitHub profile! Here's a bit about me:
 - [Twitter](https://twitter.com/huypanha)
 - [Email](mailto:huypanha558@gmail.com)
 
-<!-- ## 📚 Latest Blog Posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## 🎯 Goals for 2025
 - Contribute to open-source projects more frequently.
 - Improve my skills in AI and machine learning.
