@@ -37,7 +37,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 ## 🎯 Goals for 2025
 - Contribute to open-source projects more frequently.
 - Improve my skills in AI and machine learning.
-- Build and deploy a full-stack application on the cloud.
+- Build and deploy a full-stack application on the cloud. 
 
 ![Static Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
 ![Static Badge](https://img.shields.io/badge/Show%20some%20%E2%9D%A4%EF%B8%8F%20by%20%E2%AD%90%20repositories%20you%20find%20helpful!%20-05122A)
