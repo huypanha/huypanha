@@ -43,3 +43,5 @@ Welcome to my GitHub profile! Here's a bit about me:
 ![Static Badge](https://img.shields.io/badge/Show%20some%20%E2%9D%A4%EF%B8%8F%20by%20%E2%AD%90%20repositories%20you%20find%20helpful!%20-05122A)
 ![GitHub followers](https://img.shields.io/github/followers/huypanha?style=flat&logo=github&color=05122A&labelColor=05122A)
 ![Profile Views](https://komarev.com/ghpvc/?username=huypanha&style=flat&labelolor=05122A&color=05122A)
+
+![Views](https://dynamic-repo-badges.vercel.app/svg/count/7/Profile%20Views/huypanha)
