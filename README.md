@@ -30,6 +30,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-F471B6?style=for-the-badge&logo=bun&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -40,9 +41,11 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0078D4?style=for-the-badge&logo=azure-pipelines&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -51,11 +54,11 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 
 <div align="center">
   <a href="https://github.com/huypanha">
-    <img alt="Huy Panha's GitHub Streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=huypanha&theme=monokai-metallian&border_radius=0&card_width=417&card_height=194" />
+    <img alt="Huy Panha's GitHub Streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=huypanha&theme=monokai-metallian&border_radius=0&card_width=417&card_height[...]
   </a>
   
   <a href="https://github.com/huypanha">
-    <img alt="Huy Panha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=huypanha&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=false&card_width=417" />
+    <img alt="Huy Panha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=huypanha&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&ico[...]
   </a>
 </div>
 
